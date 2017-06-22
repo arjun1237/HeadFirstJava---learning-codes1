@@ -1,2 +1,2 @@
-# HeadFirstJava---learning-codes-Encapsulation
-HeadFirstJava - learning codes1
+# HeadFirstJava---learning-codes- Part 1
+all the learning codes of Java - HeadFirstJava
